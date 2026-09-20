@@ -1,0 +1,3 @@
+Customer Segment,Customers,Share (%),Definition,Interpretation
+One-time buyer,1620,27.73,Exactly 1 distinct invoice,No second purchase observed in the dataset window
+Repeat buyer,4232,72.32,2 or more distinct invoices,Customer returned at least once after first purchase

@@ -1,0 +1,7 @@
+ID,Finding,Evidence,Business Meaning,Action
+01,Repeat purchase rate,72.32% of identified customers placed at least two orders.,Retention is a major part of observed customer activity.,Track second-purchase conversion and repeat rate monthly.
+02,One-time buyers,27.73% of identified customers purchased only once.,There is a substantial pool that did not return during the observation window.,Build post-first-order onboarding and second-purchase triggers.
+03,Revenue dependence on returning customers,Returning customers account for 83.03% of referenced full-period revenue.,Revenue is strongly connected to existing-customer behavior.,Measure revenue and margin from returning customers separately from acquisition.
+04,First-month retention,Average month-1 cohort retention is about 21.2%.,The first repeat opportunity is much smaller than lifetime repeat rate.,Focus on the first 30–60 days after acquisition.
+05,RFM concentration,Champions are about 25.0% of customers and about 69% of identified revenue in one published RFM analysis.,Customer value is concentrated rather than evenly distributed.,Use differentiated retention treatment by segment.
+06,Seasonality,Published analyses of the same dataset show strong November revenue peaks in both years.,Holiday/seasonal demand affects purchase timing.,Plan retention messaging and inventory ahead of Q4.

@@ -1,0 +1,12 @@
+Metric,Value,Definition / Note
+Raw records,1067371.0,"UCI Online Retail II, both sheets combined"
+Identified customers,5852.0,Customers with usable Customer ID in the referenced cleaned analysis
+Orders / invoices,36607.0,Invoice-level orders in the referenced cleaned analysis
+Total identified-customer revenue (GBP),17377841.89,Referenced cleaned analysis
+Repeat customers,4232.0,"Customers with 2+ orders; 72.32% of 5,852"
+One-time customers,1620.0,Customers with exactly 1 order
+Repeat purchase rate (%),72.32,Repeat customers / identified customers
+One-time buyer share (%),27.73,One-time customers / identified customers
+Returning-customer revenue share (%),83.03,Referenced full-period revenue split
+New-customer revenue share (%),16.97,Referenced full-period revenue split
+Average month-1 repeat retention (%),21.2,Average cohort month-1 retention from a separate reproducible analysis

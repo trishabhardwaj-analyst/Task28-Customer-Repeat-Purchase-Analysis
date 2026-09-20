@@ -1,0 +1,16 @@
+TASK 28 — DATASET NOTE
+Dataset: Online Retail II
+Source: UCI Machine Learning Repository
+DOI: https://doi.org/10.24432/C5CG6D
+Direct dataset page: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+The task image explicitly suggests Olist and Online Retail II. This submission uses Online Retail II,
+consistent with the user's earlier customer-analysis work.
+
+The raw workbook is not bundled here because it is a large public source file. The Python pipeline
+downloads/loads the workbook from data/raw/online_retail_II.xlsx after the user places it there.
+
+Important: the headline figures in this package are benchmark/reference figures from public analyses
+of the same UCI dataset. The included Python script is the reproducible implementation that calculates
+the metrics directly from the raw workbook. Running it locally will create fresh CSV outputs from the
+actual downloaded dataset and is the authoritative execution path for submission.
